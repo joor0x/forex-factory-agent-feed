@@ -1,56 +1,56 @@
 time,timezone,currency,impact,impact_level,event,detail,actual,forecast,previous,day,date,datetime_utc,scraped_at
-All Day,Asia/Karachi,CAD,gray,holiday,Bank Holiday,https://www.forexfactory.com/calendar?month=August#detail=146487,,,,Mon,03/08/2026,,2026-08-07T12:57:58.637497+00:00
-15:00,Asia/Karachi,USD,red,high,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=August#detail=146582,55.6,,,Mon,03/08/2026,2026-08-03T10:00:00Z,2026-08-07T12:57:58.637497+00:00
-15:00,Asia/Karachi,USD,orange,medium,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=August#detail=146594,71.1,,,Mon,03/08/2026,2026-08-03T10:00:00Z,2026-08-07T12:57:58.637497+00:00
-15:00,Asia/Karachi,USD,orange,medium,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=August#detail=149795,7.36M,,,Tue,04/08/2026,2026-08-04T10:00:00Z,2026-08-07T12:57:58.637497+00:00
-13:15,Asia/Karachi,USD,orange,medium,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=August#detail=150305,44K,,,Wed,05/08/2026,2026-08-05T08:15:00Z,2026-08-07T12:57:58.637497+00:00
-15:00,Asia/Karachi,USD,orange,medium,ISM Services PMI,https://www.forexfactory.com/calendar?month=August#detail=146606,54.1,,,Wed,05/08/2026,2026-08-05T10:00:00Z,2026-08-07T12:57:58.637497+00:00
-21:30,Asia/Karachi,USD,orange,medium,President Trump Speaks,https://www.forexfactory.com/calendar?month=August#detail=153416,,,,Wed,05/08/2026,2026-08-05T16:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,orange,medium,Unemployment Claims,https://www.forexfactory.com/calendar?month=August#detail=147009,199K,,,Thu,06/08/2026,2026-08-06T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,CAD,red,high,Employment Change,https://www.forexfactory.com/calendar?month=August#detail=149194,75.1K,,,Fri,07/08/2026,2026-08-07T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,CAD,red,high,Unemployment Rate,https://www.forexfactory.com/calendar?month=August#detail=149195,6.4%,,,Fri,07/08/2026,2026-08-07T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,red,high,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=August#detail=146934,0.1%,,,Fri,07/08/2026,2026-08-07T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,red,high,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=August#detail=146910,-23K,,,Fri,07/08/2026,2026-08-07T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,red,high,Unemployment Rate,https://www.forexfactory.com/calendar?month=August#detail=146922,4.1%,,,Fri,07/08/2026,2026-08-07T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-15:00,Asia/Karachi,CAD,orange,medium,Ivey PMI,https://www.forexfactory.com/calendar?month=August#detail=149856,,,,Fri,07/08/2026,2026-08-07T10:00:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,red,high,Core CPI m/m,https://www.forexfactory.com/calendar?month=August#detail=148365,,,,Wed,12/08/2026,2026-08-12T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,red,high,Core CPI y/y,https://www.forexfactory.com/calendar?month=August#detail=153055,,,,Wed,12/08/2026,2026-08-12T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,red,high,CPI m/m,https://www.forexfactory.com/calendar?month=August#detail=148334,,,,Wed,12/08/2026,2026-08-12T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,red,high,CPI y/y,https://www.forexfactory.com/calendar?month=August#detail=148350,,,,Wed,12/08/2026,2026-08-12T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-07:00,Asia/Karachi,GBP,red,high,GDP m/m,https://www.forexfactory.com/calendar?month=August#detail=151554,,,,Thu,13/08/2026,2026-08-13T02:00:00Z,2026-08-07T12:57:58.637497+00:00
-07:00,Asia/Karachi,GBP,orange,medium,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=August#detail=151598,,,,Thu,13/08/2026,2026-08-13T02:00:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,red,high,Core PPI m/m,https://www.forexfactory.com/calendar?month=August#detail=148402,,,,Thu,13/08/2026,2026-08-13T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,red,high,PPI m/m,https://www.forexfactory.com/calendar?month=August#detail=148387,,,,Thu,13/08/2026,2026-08-13T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,orange,medium,Unemployment Claims,https://www.forexfactory.com/calendar?month=August#detail=147010,,,,Thu,13/08/2026,2026-08-13T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,orange,medium,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=August#detail=148044,,,,Fri,14/08/2026,2026-08-14T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,orange,medium,Retail Sales m/m,https://www.forexfactory.com/calendar?month=August#detail=148032,,,,Fri,14/08/2026,2026-08-14T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-15:00,Asia/Karachi,USD,orange,medium,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=August#detail=148577,,,,Fri,14/08/2026,2026-08-14T10:00:00Z,2026-08-07T12:57:58.637497+00:00
-15:00,Asia/Karachi,USD,orange,medium,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=August#detail=148589,,,,Fri,14/08/2026,2026-08-14T10:00:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,CAD,red,high,CPI m/m,https://www.forexfactory.com/calendar?month=August#detail=149160,,,,Mon,17/08/2026,2026-08-17T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,CAD,red,high,Median CPI y/y,https://www.forexfactory.com/calendar?month=August#detail=149161,,,,Mon,17/08/2026,2026-08-17T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,CAD,red,high,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=August#detail=149162,,,,Mon,17/08/2026,2026-08-17T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,CAD,orange,medium,Common CPI y/y,https://www.forexfactory.com/calendar?month=August#detail=149158,,,,Mon,17/08/2026,2026-08-17T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-07:00,Asia/Karachi,GBP,red,high,Claimant Count Change,https://www.forexfactory.com/calendar?month=August#detail=151085,,,,Tue,18/08/2026,2026-08-18T02:00:00Z,2026-08-07T12:57:58.637497+00:00
-07:00,Asia/Karachi,GBP,orange,medium,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=August#detail=151086,,,,Tue,18/08/2026,2026-08-18T02:00:00Z,2026-08-07T12:57:58.637497+00:00
-07:00,Asia/Karachi,GBP,red,high,CPI y/y,https://www.forexfactory.com/calendar?month=August#detail=151443,,,,Wed,19/08/2026,2026-08-19T02:00:00Z,2026-08-07T12:57:58.637497+00:00
-19:00,Asia/Karachi,USD,red,high,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=August#detail=146527,,,,Wed,19/08/2026,2026-08-19T14:00:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,orange,medium,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=August#detail=146962,,,,Thu,20/08/2026,2026-08-20T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,orange,medium,Unemployment Claims,https://www.forexfactory.com/calendar?month=August#detail=147011,,,,Thu,20/08/2026,2026-08-20T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-07:00,Asia/Karachi,GBP,orange,medium,Retail Sales m/m,https://www.forexfactory.com/calendar?month=August#detail=151609,,,,Fri,21/08/2026,2026-08-21T02:00:00Z,2026-08-07T12:57:58.637497+00:00
-08:15,Asia/Karachi,EUR,orange,medium,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=August#detail=147659,,,,Fri,21/08/2026,2026-08-21T03:15:00Z,2026-08-07T12:57:58.637497+00:00
-08:15,Asia/Karachi,EUR,orange,medium,French Flash Services PMI,https://www.forexfactory.com/calendar?month=August#detail=147660,,,,Fri,21/08/2026,2026-08-21T03:15:00Z,2026-08-07T12:57:58.637497+00:00
-08:30,Asia/Karachi,EUR,orange,medium,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=August#detail=147658,,,,Fri,21/08/2026,2026-08-21T03:30:00Z,2026-08-07T12:57:58.637497+00:00
-08:30,Asia/Karachi,EUR,orange,medium,German Flash Services PMI,https://www.forexfactory.com/calendar?month=August#detail=147657,,,,Fri,21/08/2026,2026-08-21T03:30:00Z,2026-08-07T12:57:58.637497+00:00
-09:30,Asia/Karachi,GBP,orange,medium,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=August#detail=147661,,,,Fri,21/08/2026,2026-08-21T04:30:00Z,2026-08-07T12:57:58.637497+00:00
-09:30,Asia/Karachi,GBP,orange,medium,Flash Services PMI,https://www.forexfactory.com/calendar?month=August#detail=147662,,,,Fri,21/08/2026,2026-08-21T04:30:00Z,2026-08-07T12:57:58.637497+00:00
-15:00,Asia/Karachi,USD,orange,medium,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=August#detail=146885,,,,Tue,25/08/2026,2026-08-25T10:00:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,red,high,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=August#detail=148234,,,,Wed,26/08/2026,2026-08-26T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,red,high,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=August#detail=148290,,,,Wed,26/08/2026,2026-08-26T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,orange,medium,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=August#detail=148298,,,,Wed,26/08/2026,2026-08-26T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,USD,orange,medium,Unemployment Claims,https://www.forexfactory.com/calendar?month=August#detail=147012,,,,Thu,27/08/2026,2026-08-27T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-13:30,Asia/Karachi,CAD,red,high,GDP m/m,https://www.forexfactory.com/calendar?month=August#detail=149226,,,,Fri,28/08/2026,2026-08-28T08:30:00Z,2026-08-07T12:57:58.637497+00:00
-15:00,Asia/Karachi,USD,red,high,Prelim Benchmark Payrolls Revision,https://www.forexfactory.com/calendar?month=August#detail=148508,,,,Fri,28/08/2026,2026-08-28T10:00:00Z,2026-08-07T12:57:58.637497+00:00
-15:00,Asia/Karachi,USD,orange,medium,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=August#detail=148601,,,,Fri,28/08/2026,2026-08-28T10:00:00Z,2026-08-07T12:57:58.637497+00:00
-15:00,Asia/Karachi,USD,orange,medium,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=August#detail=148613,,,,Fri,28/08/2026,2026-08-28T10:00:00Z,2026-08-07T12:57:58.637497+00:00
-All Day,Asia/Karachi,EUR,orange,medium,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=August#detail=151183,,,,Mon,31/08/2026,,2026-08-07T12:57:58.637497+00:00
-All Day,Asia/Karachi,GBP,gray,holiday,Bank Holiday,https://www.forexfactory.com/calendar?month=August#detail=151631,,,,Mon,31/08/2026,,2026-08-07T12:57:58.637497+00:00
+All Day,Asia/Karachi,CAD,gray,holiday,Bank Holiday,https://www.forexfactory.com/calendar?month=August#detail=146487,,,,Mon,03/08/2026,,2026-08-07T14:14:10.619437+00:00
+15:00,Asia/Karachi,USD,red,high,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=August#detail=146582,55.6,,,Mon,03/08/2026,2026-08-03T10:00:00Z,2026-08-07T14:14:10.619437+00:00
+15:00,Asia/Karachi,USD,orange,medium,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=August#detail=146594,71.1,,,Mon,03/08/2026,2026-08-03T10:00:00Z,2026-08-07T14:14:10.619437+00:00
+15:00,Asia/Karachi,USD,orange,medium,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=August#detail=149795,7.36M,,,Tue,04/08/2026,2026-08-04T10:00:00Z,2026-08-07T14:14:10.619437+00:00
+13:15,Asia/Karachi,USD,orange,medium,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=August#detail=150305,44K,,,Wed,05/08/2026,2026-08-05T08:15:00Z,2026-08-07T14:14:10.619437+00:00
+15:00,Asia/Karachi,USD,orange,medium,ISM Services PMI,https://www.forexfactory.com/calendar?month=August#detail=146606,54.1,,,Wed,05/08/2026,2026-08-05T10:00:00Z,2026-08-07T14:14:10.619437+00:00
+21:30,Asia/Karachi,USD,orange,medium,President Trump Speaks,https://www.forexfactory.com/calendar?month=August#detail=153416,,,,Wed,05/08/2026,2026-08-05T16:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,orange,medium,Unemployment Claims,https://www.forexfactory.com/calendar?month=August#detail=147009,199K,,,Thu,06/08/2026,2026-08-06T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,CAD,red,high,Employment Change,https://www.forexfactory.com/calendar?month=August#detail=149194,75.1K,,,Fri,07/08/2026,2026-08-07T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,CAD,red,high,Unemployment Rate,https://www.forexfactory.com/calendar?month=August#detail=149195,6.4%,,,Fri,07/08/2026,2026-08-07T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,red,high,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=August#detail=146934,0.1%,,,Fri,07/08/2026,2026-08-07T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,red,high,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=August#detail=146910,-23K,,,Fri,07/08/2026,2026-08-07T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,red,high,Unemployment Rate,https://www.forexfactory.com/calendar?month=August#detail=146922,4.1%,,,Fri,07/08/2026,2026-08-07T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+15:00,Asia/Karachi,CAD,orange,medium,Ivey PMI,https://www.forexfactory.com/calendar?month=August#detail=149856,55.1,,,Fri,07/08/2026,2026-08-07T10:00:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,red,high,Core CPI m/m,https://www.forexfactory.com/calendar?month=August#detail=148365,,,,Wed,12/08/2026,2026-08-12T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,red,high,Core CPI y/y,https://www.forexfactory.com/calendar?month=August#detail=153055,,,,Wed,12/08/2026,2026-08-12T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,red,high,CPI m/m,https://www.forexfactory.com/calendar?month=August#detail=148334,,,,Wed,12/08/2026,2026-08-12T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,red,high,CPI y/y,https://www.forexfactory.com/calendar?month=August#detail=148350,,,,Wed,12/08/2026,2026-08-12T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+07:00,Asia/Karachi,GBP,red,high,GDP m/m,https://www.forexfactory.com/calendar?month=August#detail=151554,,,,Thu,13/08/2026,2026-08-13T02:00:00Z,2026-08-07T14:14:10.619437+00:00
+07:00,Asia/Karachi,GBP,orange,medium,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=August#detail=151598,,,,Thu,13/08/2026,2026-08-13T02:00:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,red,high,Core PPI m/m,https://www.forexfactory.com/calendar?month=August#detail=148402,,,,Thu,13/08/2026,2026-08-13T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,red,high,PPI m/m,https://www.forexfactory.com/calendar?month=August#detail=148387,,,,Thu,13/08/2026,2026-08-13T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,orange,medium,Unemployment Claims,https://www.forexfactory.com/calendar?month=August#detail=147010,,,,Thu,13/08/2026,2026-08-13T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,orange,medium,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=August#detail=148044,,,,Fri,14/08/2026,2026-08-14T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,orange,medium,Retail Sales m/m,https://www.forexfactory.com/calendar?month=August#detail=148032,,,,Fri,14/08/2026,2026-08-14T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+15:00,Asia/Karachi,USD,orange,medium,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=August#detail=148577,,,,Fri,14/08/2026,2026-08-14T10:00:00Z,2026-08-07T14:14:10.619437+00:00
+15:00,Asia/Karachi,USD,orange,medium,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=August#detail=148589,,,,Fri,14/08/2026,2026-08-14T10:00:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,CAD,red,high,CPI m/m,https://www.forexfactory.com/calendar?month=August#detail=149160,,,,Mon,17/08/2026,2026-08-17T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,CAD,red,high,Median CPI y/y,https://www.forexfactory.com/calendar?month=August#detail=149161,,,,Mon,17/08/2026,2026-08-17T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,CAD,red,high,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=August#detail=149162,,,,Mon,17/08/2026,2026-08-17T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,CAD,orange,medium,Common CPI y/y,https://www.forexfactory.com/calendar?month=August#detail=149158,,,,Mon,17/08/2026,2026-08-17T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+07:00,Asia/Karachi,GBP,red,high,Claimant Count Change,https://www.forexfactory.com/calendar?month=August#detail=151085,,,,Tue,18/08/2026,2026-08-18T02:00:00Z,2026-08-07T14:14:10.619437+00:00
+07:00,Asia/Karachi,GBP,orange,medium,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=August#detail=151086,,,,Tue,18/08/2026,2026-08-18T02:00:00Z,2026-08-07T14:14:10.619437+00:00
+07:00,Asia/Karachi,GBP,red,high,CPI y/y,https://www.forexfactory.com/calendar?month=August#detail=151443,,,,Wed,19/08/2026,2026-08-19T02:00:00Z,2026-08-07T14:14:10.619437+00:00
+19:00,Asia/Karachi,USD,red,high,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=August#detail=146527,,,,Wed,19/08/2026,2026-08-19T14:00:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,orange,medium,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=August#detail=146962,,,,Thu,20/08/2026,2026-08-20T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,orange,medium,Unemployment Claims,https://www.forexfactory.com/calendar?month=August#detail=147011,,,,Thu,20/08/2026,2026-08-20T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+07:00,Asia/Karachi,GBP,orange,medium,Retail Sales m/m,https://www.forexfactory.com/calendar?month=August#detail=151609,,,,Fri,21/08/2026,2026-08-21T02:00:00Z,2026-08-07T14:14:10.619437+00:00
+08:15,Asia/Karachi,EUR,orange,medium,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=August#detail=147659,,,,Fri,21/08/2026,2026-08-21T03:15:00Z,2026-08-07T14:14:10.619437+00:00
+08:15,Asia/Karachi,EUR,orange,medium,French Flash Services PMI,https://www.forexfactory.com/calendar?month=August#detail=147660,,,,Fri,21/08/2026,2026-08-21T03:15:00Z,2026-08-07T14:14:10.619437+00:00
+08:30,Asia/Karachi,EUR,orange,medium,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=August#detail=147658,,,,Fri,21/08/2026,2026-08-21T03:30:00Z,2026-08-07T14:14:10.619437+00:00
+08:30,Asia/Karachi,EUR,orange,medium,German Flash Services PMI,https://www.forexfactory.com/calendar?month=August#detail=147657,,,,Fri,21/08/2026,2026-08-21T03:30:00Z,2026-08-07T14:14:10.619437+00:00
+09:30,Asia/Karachi,GBP,orange,medium,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=August#detail=147661,,,,Fri,21/08/2026,2026-08-21T04:30:00Z,2026-08-07T14:14:10.619437+00:00
+09:30,Asia/Karachi,GBP,orange,medium,Flash Services PMI,https://www.forexfactory.com/calendar?month=August#detail=147662,,,,Fri,21/08/2026,2026-08-21T04:30:00Z,2026-08-07T14:14:10.619437+00:00
+15:00,Asia/Karachi,USD,orange,medium,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=August#detail=146885,,,,Tue,25/08/2026,2026-08-25T10:00:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,red,high,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=August#detail=148234,,,,Wed,26/08/2026,2026-08-26T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,red,high,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=August#detail=148290,,,,Wed,26/08/2026,2026-08-26T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,orange,medium,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=August#detail=148298,,,,Wed,26/08/2026,2026-08-26T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,USD,orange,medium,Unemployment Claims,https://www.forexfactory.com/calendar?month=August#detail=147012,,,,Thu,27/08/2026,2026-08-27T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+13:30,Asia/Karachi,CAD,red,high,GDP m/m,https://www.forexfactory.com/calendar?month=August#detail=149226,,,,Fri,28/08/2026,2026-08-28T08:30:00Z,2026-08-07T14:14:10.619437+00:00
+15:00,Asia/Karachi,USD,red,high,Prelim Benchmark Payrolls Revision,https://www.forexfactory.com/calendar?month=August#detail=148508,,,,Fri,28/08/2026,2026-08-28T10:00:00Z,2026-08-07T14:14:10.619437+00:00
+15:00,Asia/Karachi,USD,orange,medium,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=August#detail=148601,,,,Fri,28/08/2026,2026-08-28T10:00:00Z,2026-08-07T14:14:10.619437+00:00
+15:00,Asia/Karachi,USD,orange,medium,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=August#detail=148613,,,,Fri,28/08/2026,2026-08-28T10:00:00Z,2026-08-07T14:14:10.619437+00:00
+All Day,Asia/Karachi,EUR,orange,medium,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=August#detail=151183,,,,Mon,31/08/2026,,2026-08-07T14:14:10.619437+00:00
+All Day,Asia/Karachi,GBP,gray,holiday,Bank Holiday,https://www.forexfactory.com/calendar?month=August#detail=151631,,,,Mon,31/08/2026,,2026-08-07T14:14:10.619437+00:00
