@@ -1,6 +1,6 @@
 [
   {
-    "time": "10:00",
+    "time": "07:00",
     "timezone": "Asia/Karachi",
     "currency": "EUR",
     "impact": "orange",
@@ -12,11 +12,11 @@
     "previous": null,
     "day": "Tue",
     "date": "01/09/2026",
-    "datetime_utc": "2026-09-01T05:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-01T02:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "10:00",
+    "time": "07:00",
     "timezone": "Asia/Karachi",
     "currency": "EUR",
     "impact": "orange",
@@ -28,11 +28,11 @@
     "previous": null,
     "day": "Tue",
     "date": "01/09/2026",
-    "datetime_utc": "2026-09-01T05:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-01T02:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "15:00",
+    "time": "12:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -44,11 +44,11 @@
     "previous": null,
     "day": "Tue",
     "date": "01/09/2026",
-    "datetime_utc": "2026-09-01T10:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-01T07:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "15:00",
+    "time": "12:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -60,11 +60,11 @@
     "previous": null,
     "day": "Tue",
     "date": "01/09/2026",
-    "datetime_utc": "2026-09-01T10:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-01T07:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "15:00",
+    "time": "12:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -76,11 +76,11 @@
     "previous": null,
     "day": "Tue",
     "date": "01/09/2026",
-    "datetime_utc": "2026-09-01T10:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-01T07:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:15",
+    "time": "10:15",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -92,11 +92,11 @@
     "previous": null,
     "day": "Wed",
     "date": "02/09/2026",
-    "datetime_utc": "2026-09-02T08:15:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-02T05:15:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "14:45",
+    "time": "11:45",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "red",
@@ -108,11 +108,11 @@
     "previous": null,
     "day": "Wed",
     "date": "02/09/2026",
-    "datetime_utc": "2026-09-02T09:45:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-02T06:45:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "14:45",
+    "time": "11:45",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "red",
@@ -124,11 +124,11 @@
     "previous": null,
     "day": "Wed",
     "date": "02/09/2026",
-    "datetime_utc": "2026-09-02T09:45:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-02T06:45:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "15:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "red",
@@ -140,11 +140,11 @@
     "previous": null,
     "day": "Wed",
     "date": "02/09/2026",
-    "datetime_utc": "2026-09-02T10:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-02T07:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:30",
+    "time": "10:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -156,27 +156,27 @@
     "previous": null,
     "day": "Thu",
     "date": "03/09/2026",
-    "datetime_utc": "2026-09-03T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-03T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "15:00",
+    "time": "12:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
     "impact_level": "medium",
     "event": "ISM Services PMI",
     "detail": "https://www.forexfactory.com/calendar?month=September#detail=146607",
-    "actual": "",
+    "actual": "55.4",
     "forecast": null,
     "previous": null,
     "day": "Thu",
     "date": "03/09/2026",
-    "datetime_utc": "2026-09-03T10:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-03T07:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "09:50",
+    "time": "06:50",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "red",
@@ -188,11 +188,11 @@
     "previous": null,
     "day": "Fri",
     "date": "04/09/2026",
-    "datetime_utc": "2026-09-04T04:50:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-04T01:50:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:30",
+    "time": "10:30",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "red",
@@ -204,11 +204,11 @@
     "previous": null,
     "day": "Fri",
     "date": "04/09/2026",
-    "datetime_utc": "2026-09-04T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-04T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:30",
+    "time": "10:30",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "red",
@@ -220,11 +220,11 @@
     "previous": null,
     "day": "Fri",
     "date": "04/09/2026",
-    "datetime_utc": "2026-09-04T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-04T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:30",
+    "time": "10:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -236,11 +236,11 @@
     "previous": null,
     "day": "Fri",
     "date": "04/09/2026",
-    "datetime_utc": "2026-09-04T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-04T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:30",
+    "time": "10:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -252,11 +252,11 @@
     "previous": null,
     "day": "Fri",
     "date": "04/09/2026",
-    "datetime_utc": "2026-09-04T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-04T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:30",
+    "time": "10:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -268,11 +268,11 @@
     "previous": null,
     "day": "Fri",
     "date": "04/09/2026",
-    "datetime_utc": "2026-09-04T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-04T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "15:00",
+    "time": "12:00",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "orange",
@@ -284,8 +284,8 @@
     "previous": null,
     "day": "Fri",
     "date": "04/09/2026",
-    "datetime_utc": "2026-09-04T10:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-04T07:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
     "time": "All Day",
@@ -301,7 +301,7 @@
     "day": "Mon",
     "date": "07/09/2026",
     "datetime_utc": null,
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
     "time": "All Day",
@@ -317,7 +317,327 @@
     "day": "Mon",
     "date": "07/09/2026",
     "datetime_utc": null,
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "10:15",
+    "timezone": "Asia/Karachi",
+    "currency": "EUR",
+    "impact": "red",
+    "impact_level": "high",
+    "event": "Main Refinancing Rate",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=150538",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Thu",
+    "date": "10/09/2026",
+    "datetime_utc": "2026-09-10T05:15:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "10:15",
+    "timezone": "Asia/Karachi",
+    "currency": "EUR",
+    "impact": "red",
+    "impact_level": "high",
+    "event": "Monetary Policy Statement",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=150539",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Thu",
+    "date": "10/09/2026",
+    "datetime_utc": "2026-09-10T05:15:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "10:30",
+    "timezone": "Asia/Karachi",
+    "currency": "USD",
+    "impact": "red",
+    "impact_level": "high",
+    "event": "Core PPI m/m",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=148403",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Thu",
+    "date": "10/09/2026",
+    "datetime_utc": "2026-09-10T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "10:30",
+    "timezone": "Asia/Karachi",
+    "currency": "USD",
+    "impact": "red",
+    "impact_level": "high",
+    "event": "PPI m/m",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=148388",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Thu",
+    "date": "10/09/2026",
+    "datetime_utc": "2026-09-10T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "10:30",
+    "timezone": "Asia/Karachi",
+    "currency": "USD",
+    "impact": "orange",
+    "impact_level": "medium",
+    "event": "Unemployment Claims",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=147014",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Thu",
+    "date": "10/09/2026",
+    "datetime_utc": "2026-09-10T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "10:45",
+    "timezone": "Asia/Karachi",
+    "currency": "EUR",
+    "impact": "red",
+    "impact_level": "high",
+    "event": "ECB Press Conference",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=150537",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Thu",
+    "date": "10/09/2026",
+    "datetime_utc": "2026-09-10T05:45:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "04:00",
+    "timezone": "Asia/Karachi",
+    "currency": "GBP",
+    "impact": "red",
+    "impact_level": "high",
+    "event": "GDP m/m",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=151558",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Thu",
+    "date": "10/09/2026",
+    "datetime_utc": "2026-09-10T23:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "10:30",
+    "timezone": "Asia/Karachi",
+    "currency": "USD",
+    "impact": "red",
+    "impact_level": "high",
+    "event": "Core CPI m/m",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=148367",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Fri",
+    "date": "11/09/2026",
+    "datetime_utc": "2026-09-11T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "10:30",
+    "timezone": "Asia/Karachi",
+    "currency": "USD",
+    "impact": "red",
+    "impact_level": "high",
+    "event": "Core CPI y/y",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=153056",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Fri",
+    "date": "11/09/2026",
+    "datetime_utc": "2026-09-11T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "10:30",
+    "timezone": "Asia/Karachi",
+    "currency": "USD",
+    "impact": "red",
+    "impact_level": "high",
+    "event": "CPI m/m",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=148336",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Fri",
+    "date": "11/09/2026",
+    "datetime_utc": "2026-09-11T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "10:30",
+    "timezone": "Asia/Karachi",
+    "currency": "USD",
+    "impact": "red",
+    "impact_level": "high",
+    "event": "CPI y/y",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=148351",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Fri",
+    "date": "11/09/2026",
+    "datetime_utc": "2026-09-11T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "12:00",
+    "timezone": "Asia/Karachi",
+    "currency": "USD",
+    "impact": "orange",
+    "impact_level": "medium",
+    "event": "Prelim UoM Consumer Sentiment",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=148578",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Fri",
+    "date": "11/09/2026",
+    "datetime_utc": "2026-09-11T07:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "12:00",
+    "timezone": "Asia/Karachi",
+    "currency": "USD",
+    "impact": "orange",
+    "impact_level": "medium",
+    "event": "Prelim UoM Inflation Expectations",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=148590",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Fri",
+    "date": "11/09/2026",
+    "datetime_utc": "2026-09-11T07:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "05:30",
+    "timezone": "Asia/Karachi",
+    "currency": "EUR",
+    "impact": "orange",
+    "impact_level": "medium",
+    "event": "ECB President Lagarde Speaks",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=153457",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Sat",
+    "date": "12/09/2026",
+    "datetime_utc": "2026-09-12T00:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "10:30",
+    "timezone": "Asia/Karachi",
+    "currency": "CAD",
+    "impact": "red",
+    "impact_level": "high",
+    "event": "CPI m/m",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=149166",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Mon",
+    "date": "14/09/2026",
+    "datetime_utc": "2026-09-14T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "10:30",
+    "timezone": "Asia/Karachi",
+    "currency": "CAD",
+    "impact": "red",
+    "impact_level": "high",
+    "event": "Median CPI y/y",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=149167",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Mon",
+    "date": "14/09/2026",
+    "datetime_utc": "2026-09-14T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "10:30",
+    "timezone": "Asia/Karachi",
+    "currency": "CAD",
+    "impact": "red",
+    "impact_level": "high",
+    "event": "Trimmed CPI y/y",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=149168",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Mon",
+    "date": "14/09/2026",
+    "datetime_utc": "2026-09-14T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "10:30",
+    "timezone": "Asia/Karachi",
+    "currency": "CAD",
+    "impact": "orange",
+    "impact_level": "medium",
+    "event": "Common CPI y/y",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=149163",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Mon",
+    "date": "14/09/2026",
+    "datetime_utc": "2026-09-14T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "04:00",
+    "timezone": "Asia/Karachi",
+    "currency": "GBP",
+    "impact": "red",
+    "impact_level": "high",
+    "event": "Claimant Count Change",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=151090",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Mon",
+    "date": "14/09/2026",
+    "datetime_utc": "2026-09-14T23:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
+  },
+  {
+    "time": "04:00",
+    "timezone": "Asia/Karachi",
+    "currency": "GBP",
+    "impact": "orange",
+    "impact_level": "medium",
+    "event": "Average Earnings Index 3m/y",
+    "detail": "https://www.forexfactory.com/calendar?month=September#detail=151089",
+    "actual": "",
+    "forecast": null,
+    "previous": null,
+    "day": "Mon",
+    "date": "14/09/2026",
+    "datetime_utc": "2026-09-14T23:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
     "time": "Tentative",
@@ -331,316 +651,12 @@
     "forecast": null,
     "previous": null,
     "day": "Tue",
-    "date": "08/09/2026",
+    "date": "15/09/2026",
     "datetime_utc": null,
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:15",
-    "timezone": "Asia/Karachi",
-    "currency": "EUR",
-    "impact": "red",
-    "impact_level": "high",
-    "event": "Main Refinancing Rate",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=150538",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Thu",
-    "date": "10/09/2026",
-    "datetime_utc": "2026-09-10T08:15:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "13:15",
-    "timezone": "Asia/Karachi",
-    "currency": "EUR",
-    "impact": "red",
-    "impact_level": "high",
-    "event": "Monetary Policy Statement",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=150539",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Thu",
-    "date": "10/09/2026",
-    "datetime_utc": "2026-09-10T08:15:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "13:30",
-    "timezone": "Asia/Karachi",
-    "currency": "USD",
-    "impact": "red",
-    "impact_level": "high",
-    "event": "Core PPI m/m",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=148403",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Thu",
-    "date": "10/09/2026",
-    "datetime_utc": "2026-09-10T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "13:30",
-    "timezone": "Asia/Karachi",
-    "currency": "USD",
-    "impact": "red",
-    "impact_level": "high",
-    "event": "PPI m/m",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=148388",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Thu",
-    "date": "10/09/2026",
-    "datetime_utc": "2026-09-10T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "13:30",
-    "timezone": "Asia/Karachi",
-    "currency": "USD",
-    "impact": "orange",
-    "impact_level": "medium",
-    "event": "Unemployment Claims",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=147014",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Thu",
-    "date": "10/09/2026",
-    "datetime_utc": "2026-09-10T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "13:45",
-    "timezone": "Asia/Karachi",
-    "currency": "EUR",
-    "impact": "red",
-    "impact_level": "high",
-    "event": "ECB Press Conference",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=150537",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Thu",
-    "date": "10/09/2026",
-    "datetime_utc": "2026-09-10T08:45:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "07:00",
-    "timezone": "Asia/Karachi",
-    "currency": "GBP",
-    "impact": "red",
-    "impact_level": "high",
-    "event": "GDP m/m",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=151558",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Fri",
-    "date": "11/09/2026",
-    "datetime_utc": "2026-09-11T02:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "13:30",
-    "timezone": "Asia/Karachi",
-    "currency": "USD",
-    "impact": "red",
-    "impact_level": "high",
-    "event": "Core CPI m/m",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=148367",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Fri",
-    "date": "11/09/2026",
-    "datetime_utc": "2026-09-11T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "13:30",
-    "timezone": "Asia/Karachi",
-    "currency": "USD",
-    "impact": "red",
-    "impact_level": "high",
-    "event": "Core CPI y/y",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=153056",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Fri",
-    "date": "11/09/2026",
-    "datetime_utc": "2026-09-11T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "13:30",
-    "timezone": "Asia/Karachi",
-    "currency": "USD",
-    "impact": "red",
-    "impact_level": "high",
-    "event": "CPI m/m",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=148336",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Fri",
-    "date": "11/09/2026",
-    "datetime_utc": "2026-09-11T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "13:30",
-    "timezone": "Asia/Karachi",
-    "currency": "USD",
-    "impact": "red",
-    "impact_level": "high",
-    "event": "CPI y/y",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=148351",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Fri",
-    "date": "11/09/2026",
-    "datetime_utc": "2026-09-11T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "15:00",
-    "timezone": "Asia/Karachi",
-    "currency": "USD",
-    "impact": "orange",
-    "impact_level": "medium",
-    "event": "Prelim UoM Consumer Sentiment",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=148578",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Fri",
-    "date": "11/09/2026",
-    "datetime_utc": "2026-09-11T10:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "15:00",
-    "timezone": "Asia/Karachi",
-    "currency": "USD",
-    "impact": "orange",
-    "impact_level": "medium",
-    "event": "Prelim UoM Inflation Expectations",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=148590",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Fri",
-    "date": "11/09/2026",
-    "datetime_utc": "2026-09-11T10:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "13:30",
-    "timezone": "Asia/Karachi",
-    "currency": "CAD",
-    "impact": "red",
-    "impact_level": "high",
-    "event": "CPI m/m",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=149166",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Mon",
-    "date": "14/09/2026",
-    "datetime_utc": "2026-09-14T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "13:30",
-    "timezone": "Asia/Karachi",
-    "currency": "CAD",
-    "impact": "red",
-    "impact_level": "high",
-    "event": "Median CPI y/y",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=149167",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Mon",
-    "date": "14/09/2026",
-    "datetime_utc": "2026-09-14T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "13:30",
-    "timezone": "Asia/Karachi",
-    "currency": "CAD",
-    "impact": "red",
-    "impact_level": "high",
-    "event": "Trimmed CPI y/y",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=149168",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Mon",
-    "date": "14/09/2026",
-    "datetime_utc": "2026-09-14T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "13:30",
-    "timezone": "Asia/Karachi",
-    "currency": "CAD",
-    "impact": "orange",
-    "impact_level": "medium",
-    "event": "Common CPI y/y",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=149163",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Mon",
-    "date": "14/09/2026",
-    "datetime_utc": "2026-09-14T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "07:00",
-    "timezone": "Asia/Karachi",
-    "currency": "GBP",
-    "impact": "red",
-    "impact_level": "high",
-    "event": "Claimant Count Change",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=151090",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Tue",
-    "date": "15/09/2026",
-    "datetime_utc": "2026-09-15T02:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "07:00",
-    "timezone": "Asia/Karachi",
-    "currency": "GBP",
-    "impact": "orange",
-    "impact_level": "medium",
-    "event": "Average Earnings Index 3m/y",
-    "detail": "https://www.forexfactory.com/calendar?month=September#detail=151089",
-    "actual": "",
-    "forecast": null,
-    "previous": null,
-    "day": "Tue",
-    "date": "15/09/2026",
-    "datetime_utc": "2026-09-15T02:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
-  },
-  {
-    "time": "07:00",
+    "time": "04:00",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "red",
@@ -650,13 +666,13 @@
     "actual": "",
     "forecast": null,
     "previous": null,
-    "day": "Wed",
-    "date": "16/09/2026",
-    "datetime_utc": "2026-09-16T02:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "day": "Tue",
+    "date": "15/09/2026",
+    "datetime_utc": "2026-09-15T23:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:30",
+    "time": "10:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -668,11 +684,11 @@
     "previous": null,
     "day": "Wed",
     "date": "16/09/2026",
-    "datetime_utc": "2026-09-16T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-16T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:30",
+    "time": "10:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -684,11 +700,11 @@
     "previous": null,
     "day": "Wed",
     "date": "16/09/2026",
-    "datetime_utc": "2026-09-16T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-16T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "19:00",
+    "time": "16:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -700,11 +716,11 @@
     "previous": null,
     "day": "Wed",
     "date": "16/09/2026",
-    "datetime_utc": "2026-09-16T14:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-16T11:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "19:00",
+    "time": "16:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -716,11 +732,11 @@
     "previous": null,
     "day": "Wed",
     "date": "16/09/2026",
-    "datetime_utc": "2026-09-16T14:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-16T11:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "19:00",
+    "time": "16:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -732,11 +748,11 @@
     "previous": null,
     "day": "Wed",
     "date": "16/09/2026",
-    "datetime_utc": "2026-09-16T14:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-16T11:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "19:30",
+    "time": "16:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -748,11 +764,11 @@
     "previous": null,
     "day": "Wed",
     "date": "16/09/2026",
-    "datetime_utc": "2026-09-16T14:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-16T11:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "12:00",
+    "time": "09:00",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "red",
@@ -764,11 +780,11 @@
     "previous": null,
     "day": "Thu",
     "date": "17/09/2026",
-    "datetime_utc": "2026-09-17T07:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-17T04:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "12:00",
+    "time": "09:00",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "red",
@@ -780,11 +796,11 @@
     "previous": null,
     "day": "Thu",
     "date": "17/09/2026",
-    "datetime_utc": "2026-09-17T07:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-17T04:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "12:00",
+    "time": "09:00",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "red",
@@ -796,11 +812,11 @@
     "previous": null,
     "day": "Thu",
     "date": "17/09/2026",
-    "datetime_utc": "2026-09-17T07:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-17T04:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:30",
+    "time": "10:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -812,11 +828,11 @@
     "previous": null,
     "day": "Thu",
     "date": "17/09/2026",
-    "datetime_utc": "2026-09-17T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-17T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:30",
+    "time": "10:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -828,11 +844,11 @@
     "previous": null,
     "day": "Thu",
     "date": "17/09/2026",
-    "datetime_utc": "2026-09-17T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-17T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "07:00",
+    "time": "04:00",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "orange",
@@ -842,13 +858,13 @@
     "actual": "",
     "forecast": null,
     "previous": null,
-    "day": "Fri",
-    "date": "18/09/2026",
-    "datetime_utc": "2026-09-18T02:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "day": "Thu",
+    "date": "17/09/2026",
+    "datetime_utc": "2026-09-17T23:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "08:15",
+    "time": "05:15",
     "timezone": "Asia/Karachi",
     "currency": "EUR",
     "impact": "orange",
@@ -860,11 +876,11 @@
     "previous": null,
     "day": "Wed",
     "date": "23/09/2026",
-    "datetime_utc": "2026-09-23T03:15:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-23T00:15:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "08:15",
+    "time": "05:15",
     "timezone": "Asia/Karachi",
     "currency": "EUR",
     "impact": "orange",
@@ -876,11 +892,11 @@
     "previous": null,
     "day": "Wed",
     "date": "23/09/2026",
-    "datetime_utc": "2026-09-23T03:15:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-23T00:15:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "08:30",
+    "time": "05:30",
     "timezone": "Asia/Karachi",
     "currency": "EUR",
     "impact": "orange",
@@ -892,11 +908,11 @@
     "previous": null,
     "day": "Wed",
     "date": "23/09/2026",
-    "datetime_utc": "2026-09-23T03:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-23T00:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "08:30",
+    "time": "05:30",
     "timezone": "Asia/Karachi",
     "currency": "EUR",
     "impact": "orange",
@@ -908,11 +924,11 @@
     "previous": null,
     "day": "Wed",
     "date": "23/09/2026",
-    "datetime_utc": "2026-09-23T03:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-23T00:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "09:30",
+    "time": "06:30",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "orange",
@@ -924,11 +940,11 @@
     "previous": null,
     "day": "Wed",
     "date": "23/09/2026",
-    "datetime_utc": "2026-09-23T04:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-23T01:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "09:30",
+    "time": "06:30",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "orange",
@@ -940,11 +956,11 @@
     "previous": null,
     "day": "Wed",
     "date": "23/09/2026",
-    "datetime_utc": "2026-09-23T04:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-23T01:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:30",
+    "time": "10:30",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "orange",
@@ -956,11 +972,11 @@
     "previous": null,
     "day": "Thu",
     "date": "24/09/2026",
-    "datetime_utc": "2026-09-24T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-24T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:30",
+    "time": "10:30",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "orange",
@@ -972,11 +988,11 @@
     "previous": null,
     "day": "Thu",
     "date": "24/09/2026",
-    "datetime_utc": "2026-09-24T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-24T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:30",
+    "time": "10:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -988,11 +1004,11 @@
     "previous": null,
     "day": "Thu",
     "date": "24/09/2026",
-    "datetime_utc": "2026-09-24T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-24T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "15:00",
+    "time": "12:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -1004,11 +1020,11 @@
     "previous": null,
     "day": "Fri",
     "date": "25/09/2026",
-    "datetime_utc": "2026-09-25T10:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-25T07:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "15:00",
+    "time": "12:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -1020,11 +1036,11 @@
     "previous": null,
     "day": "Fri",
     "date": "25/09/2026",
-    "datetime_utc": "2026-09-25T10:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-25T07:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:30",
+    "time": "10:30",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "red",
@@ -1036,11 +1052,11 @@
     "previous": null,
     "day": "Tue",
     "date": "29/09/2026",
-    "datetime_utc": "2026-09-29T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-29T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "15:00",
+    "time": "12:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -1052,11 +1068,11 @@
     "previous": null,
     "day": "Tue",
     "date": "29/09/2026",
-    "datetime_utc": "2026-09-29T10:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-29T07:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "15:00",
+    "time": "12:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -1068,8 +1084,8 @@
     "previous": null,
     "day": "Tue",
     "date": "29/09/2026",
-    "datetime_utc": "2026-09-29T10:00:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-29T07:00:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
     "time": "All Day",
@@ -1082,10 +1098,10 @@
     "actual": "",
     "forecast": null,
     "previous": null,
-    "day": "Wed",
-    "date": "30/09/2026",
+    "day": "Tue",
+    "date": "29/09/2026",
     "datetime_utc": null,
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
     "time": "All Day",
@@ -1101,10 +1117,10 @@
     "day": "Wed",
     "date": "30/09/2026",
     "datetime_utc": null,
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:15",
+    "time": "10:15",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -1116,11 +1132,11 @@
     "previous": null,
     "day": "Wed",
     "date": "30/09/2026",
-    "datetime_utc": "2026-09-30T08:15:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-30T05:15:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:30",
+    "time": "10:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -1132,11 +1148,11 @@
     "previous": null,
     "day": "Wed",
     "date": "30/09/2026",
-    "datetime_utc": "2026-09-30T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-30T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:30",
+    "time": "10:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -1148,11 +1164,11 @@
     "previous": null,
     "day": "Wed",
     "date": "30/09/2026",
-    "datetime_utc": "2026-09-30T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-30T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   },
   {
-    "time": "13:30",
+    "time": "10:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -1164,7 +1180,7 @@
     "previous": null,
     "day": "Wed",
     "date": "30/09/2026",
-    "datetime_utc": "2026-09-30T08:30:00Z",
-    "scraped_at": "2026-09-03T12:36:16.972917+00:00"
+    "datetime_utc": "2026-09-30T05:30:00Z",
+    "scraped_at": "2026-09-03T16:56:55.062331+00:00"
   }
 ]
