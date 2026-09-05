@@ -1,6 +1,6 @@
 [
   {
-    "time": "10:00",
+    "time": "09:00",
     "timezone": "Asia/Karachi",
     "currency": "EUR",
     "impact": "orange",
@@ -12,11 +12,11 @@
     "previous": null,
     "day": "Tue",
     "date": "01/09/2026",
-    "datetime_utc": "2026-09-01T05:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-01T04:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "10:00",
+    "time": "09:00",
     "timezone": "Asia/Karachi",
     "currency": "EUR",
     "impact": "orange",
@@ -28,11 +28,11 @@
     "previous": null,
     "day": "Tue",
     "date": "01/09/2026",
-    "datetime_utc": "2026-09-01T05:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-01T04:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "15:00",
+    "time": "14:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -44,11 +44,11 @@
     "previous": null,
     "day": "Tue",
     "date": "01/09/2026",
-    "datetime_utc": "2026-09-01T10:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-01T09:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "15:00",
+    "time": "14:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -60,11 +60,11 @@
     "previous": null,
     "day": "Tue",
     "date": "01/09/2026",
-    "datetime_utc": "2026-09-01T10:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-01T09:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "15:00",
+    "time": "14:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -76,11 +76,11 @@
     "previous": null,
     "day": "Tue",
     "date": "01/09/2026",
-    "datetime_utc": "2026-09-01T10:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-01T09:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:15",
+    "time": "12:15",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -92,11 +92,11 @@
     "previous": null,
     "day": "Wed",
     "date": "02/09/2026",
-    "datetime_utc": "2026-09-02T08:15:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-02T07:15:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "14:45",
+    "time": "13:45",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "red",
@@ -108,11 +108,11 @@
     "previous": null,
     "day": "Wed",
     "date": "02/09/2026",
-    "datetime_utc": "2026-09-02T09:45:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-02T08:45:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "14:45",
+    "time": "13:45",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "red",
@@ -124,11 +124,11 @@
     "previous": null,
     "day": "Wed",
     "date": "02/09/2026",
-    "datetime_utc": "2026-09-02T09:45:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-02T08:45:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "15:30",
+    "time": "14:30",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "red",
@@ -140,11 +140,11 @@
     "previous": null,
     "day": "Wed",
     "date": "02/09/2026",
-    "datetime_utc": "2026-09-02T10:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-02T09:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -156,11 +156,11 @@
     "previous": null,
     "day": "Thu",
     "date": "03/09/2026",
-    "datetime_utc": "2026-09-03T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-03T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "15:00",
+    "time": "14:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -172,11 +172,11 @@
     "previous": null,
     "day": "Thu",
     "date": "03/09/2026",
-    "datetime_utc": "2026-09-03T10:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-03T09:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "09:50",
+    "time": "08:50",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "red",
@@ -188,11 +188,11 @@
     "previous": null,
     "day": "Fri",
     "date": "04/09/2026",
-    "datetime_utc": "2026-09-04T04:50:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-04T03:50:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "red",
@@ -204,11 +204,11 @@
     "previous": null,
     "day": "Fri",
     "date": "04/09/2026",
-    "datetime_utc": "2026-09-04T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-04T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "red",
@@ -220,11 +220,11 @@
     "previous": null,
     "day": "Fri",
     "date": "04/09/2026",
-    "datetime_utc": "2026-09-04T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-04T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -236,11 +236,11 @@
     "previous": null,
     "day": "Fri",
     "date": "04/09/2026",
-    "datetime_utc": "2026-09-04T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-04T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -252,11 +252,11 @@
     "previous": null,
     "day": "Fri",
     "date": "04/09/2026",
-    "datetime_utc": "2026-09-04T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-04T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -268,11 +268,11 @@
     "previous": null,
     "day": "Fri",
     "date": "04/09/2026",
-    "datetime_utc": "2026-09-04T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-04T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "15:00",
+    "time": "14:00",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "orange",
@@ -284,8 +284,8 @@
     "previous": null,
     "day": "Fri",
     "date": "04/09/2026",
-    "datetime_utc": "2026-09-04T10:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-04T09:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
     "time": "All Day",
@@ -301,7 +301,7 @@
     "day": "Mon",
     "date": "07/09/2026",
     "datetime_utc": null,
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
     "time": "All Day",
@@ -317,10 +317,10 @@
     "day": "Mon",
     "date": "07/09/2026",
     "datetime_utc": null,
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:15",
+    "time": "12:15",
     "timezone": "Asia/Karachi",
     "currency": "EUR",
     "impact": "red",
@@ -332,11 +332,11 @@
     "previous": null,
     "day": "Thu",
     "date": "10/09/2026",
-    "datetime_utc": "2026-09-10T08:15:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-10T07:15:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:15",
+    "time": "12:15",
     "timezone": "Asia/Karachi",
     "currency": "EUR",
     "impact": "red",
@@ -348,11 +348,11 @@
     "previous": null,
     "day": "Thu",
     "date": "10/09/2026",
-    "datetime_utc": "2026-09-10T08:15:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-10T07:15:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -364,11 +364,11 @@
     "previous": null,
     "day": "Thu",
     "date": "10/09/2026",
-    "datetime_utc": "2026-09-10T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-10T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -380,11 +380,11 @@
     "previous": null,
     "day": "Thu",
     "date": "10/09/2026",
-    "datetime_utc": "2026-09-10T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-10T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -396,11 +396,11 @@
     "previous": null,
     "day": "Thu",
     "date": "10/09/2026",
-    "datetime_utc": "2026-09-10T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-10T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:45",
+    "time": "12:45",
     "timezone": "Asia/Karachi",
     "currency": "EUR",
     "impact": "red",
@@ -412,11 +412,11 @@
     "previous": null,
     "day": "Thu",
     "date": "10/09/2026",
-    "datetime_utc": "2026-09-10T08:45:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-10T07:45:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "07:00",
+    "time": "06:00",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "red",
@@ -428,11 +428,11 @@
     "previous": null,
     "day": "Fri",
     "date": "11/09/2026",
-    "datetime_utc": "2026-09-11T02:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-11T01:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -444,11 +444,11 @@
     "previous": null,
     "day": "Fri",
     "date": "11/09/2026",
-    "datetime_utc": "2026-09-11T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-11T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -460,11 +460,11 @@
     "previous": null,
     "day": "Fri",
     "date": "11/09/2026",
-    "datetime_utc": "2026-09-11T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-11T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -476,11 +476,11 @@
     "previous": null,
     "day": "Fri",
     "date": "11/09/2026",
-    "datetime_utc": "2026-09-11T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-11T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -492,11 +492,11 @@
     "previous": null,
     "day": "Fri",
     "date": "11/09/2026",
-    "datetime_utc": "2026-09-11T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-11T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "15:00",
+    "time": "14:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -508,11 +508,11 @@
     "previous": null,
     "day": "Fri",
     "date": "11/09/2026",
-    "datetime_utc": "2026-09-11T10:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-11T09:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "15:00",
+    "time": "14:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -524,11 +524,11 @@
     "previous": null,
     "day": "Fri",
     "date": "11/09/2026",
-    "datetime_utc": "2026-09-11T10:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-11T09:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "08:30",
+    "time": "07:30",
     "timezone": "Asia/Karachi",
     "currency": "EUR",
     "impact": "orange",
@@ -540,11 +540,11 @@
     "previous": null,
     "day": "Sat",
     "date": "12/09/2026",
-    "datetime_utc": "2026-09-12T03:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-12T02:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "red",
@@ -556,11 +556,11 @@
     "previous": null,
     "day": "Mon",
     "date": "14/09/2026",
-    "datetime_utc": "2026-09-14T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-14T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "red",
@@ -572,11 +572,11 @@
     "previous": null,
     "day": "Mon",
     "date": "14/09/2026",
-    "datetime_utc": "2026-09-14T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-14T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "red",
@@ -588,11 +588,11 @@
     "previous": null,
     "day": "Mon",
     "date": "14/09/2026",
-    "datetime_utc": "2026-09-14T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-14T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "orange",
@@ -604,11 +604,11 @@
     "previous": null,
     "day": "Mon",
     "date": "14/09/2026",
-    "datetime_utc": "2026-09-14T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-14T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "07:00",
+    "time": "06:00",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "red",
@@ -620,11 +620,11 @@
     "previous": null,
     "day": "Tue",
     "date": "15/09/2026",
-    "datetime_utc": "2026-09-15T02:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-15T01:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "07:00",
+    "time": "06:00",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "orange",
@@ -636,8 +636,8 @@
     "previous": null,
     "day": "Tue",
     "date": "15/09/2026",
-    "datetime_utc": "2026-09-15T02:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-15T01:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
     "time": "Tentative",
@@ -653,10 +653,10 @@
     "day": "Tue",
     "date": "15/09/2026",
     "datetime_utc": null,
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "07:00",
+    "time": "06:00",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "red",
@@ -668,11 +668,11 @@
     "previous": null,
     "day": "Wed",
     "date": "16/09/2026",
-    "datetime_utc": "2026-09-16T02:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-16T01:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -684,11 +684,11 @@
     "previous": null,
     "day": "Wed",
     "date": "16/09/2026",
-    "datetime_utc": "2026-09-16T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-16T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -700,11 +700,11 @@
     "previous": null,
     "day": "Wed",
     "date": "16/09/2026",
-    "datetime_utc": "2026-09-16T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-16T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "19:00",
+    "time": "18:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -716,11 +716,11 @@
     "previous": null,
     "day": "Wed",
     "date": "16/09/2026",
-    "datetime_utc": "2026-09-16T14:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-16T13:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "19:00",
+    "time": "18:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -732,11 +732,11 @@
     "previous": null,
     "day": "Wed",
     "date": "16/09/2026",
-    "datetime_utc": "2026-09-16T14:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-16T13:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "19:00",
+    "time": "18:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -748,11 +748,11 @@
     "previous": null,
     "day": "Wed",
     "date": "16/09/2026",
-    "datetime_utc": "2026-09-16T14:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-16T13:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "19:30",
+    "time": "18:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -764,11 +764,11 @@
     "previous": null,
     "day": "Wed",
     "date": "16/09/2026",
-    "datetime_utc": "2026-09-16T14:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-16T13:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "12:00",
+    "time": "11:00",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "red",
@@ -780,11 +780,11 @@
     "previous": null,
     "day": "Thu",
     "date": "17/09/2026",
-    "datetime_utc": "2026-09-17T07:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-17T06:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "12:00",
+    "time": "11:00",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "red",
@@ -796,11 +796,11 @@
     "previous": null,
     "day": "Thu",
     "date": "17/09/2026",
-    "datetime_utc": "2026-09-17T07:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-17T06:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "12:00",
+    "time": "11:00",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "red",
@@ -812,11 +812,11 @@
     "previous": null,
     "day": "Thu",
     "date": "17/09/2026",
-    "datetime_utc": "2026-09-17T07:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-17T06:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -828,11 +828,11 @@
     "previous": null,
     "day": "Thu",
     "date": "17/09/2026",
-    "datetime_utc": "2026-09-17T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-17T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -844,11 +844,11 @@
     "previous": null,
     "day": "Thu",
     "date": "17/09/2026",
-    "datetime_utc": "2026-09-17T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-17T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "07:00",
+    "time": "06:00",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "orange",
@@ -860,11 +860,11 @@
     "previous": null,
     "day": "Fri",
     "date": "18/09/2026",
-    "datetime_utc": "2026-09-18T02:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-18T01:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "08:15",
+    "time": "07:15",
     "timezone": "Asia/Karachi",
     "currency": "EUR",
     "impact": "orange",
@@ -876,11 +876,11 @@
     "previous": null,
     "day": "Wed",
     "date": "23/09/2026",
-    "datetime_utc": "2026-09-23T03:15:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-23T02:15:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "08:15",
+    "time": "07:15",
     "timezone": "Asia/Karachi",
     "currency": "EUR",
     "impact": "orange",
@@ -892,11 +892,11 @@
     "previous": null,
     "day": "Wed",
     "date": "23/09/2026",
-    "datetime_utc": "2026-09-23T03:15:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-23T02:15:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "08:30",
+    "time": "07:30",
     "timezone": "Asia/Karachi",
     "currency": "EUR",
     "impact": "orange",
@@ -908,11 +908,11 @@
     "previous": null,
     "day": "Wed",
     "date": "23/09/2026",
-    "datetime_utc": "2026-09-23T03:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-23T02:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "08:30",
+    "time": "07:30",
     "timezone": "Asia/Karachi",
     "currency": "EUR",
     "impact": "orange",
@@ -924,11 +924,11 @@
     "previous": null,
     "day": "Wed",
     "date": "23/09/2026",
-    "datetime_utc": "2026-09-23T03:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-23T02:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "09:30",
+    "time": "08:30",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "orange",
@@ -940,11 +940,11 @@
     "previous": null,
     "day": "Wed",
     "date": "23/09/2026",
-    "datetime_utc": "2026-09-23T04:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-23T03:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "09:30",
+    "time": "08:30",
     "timezone": "Asia/Karachi",
     "currency": "GBP",
     "impact": "orange",
@@ -956,11 +956,11 @@
     "previous": null,
     "day": "Wed",
     "date": "23/09/2026",
-    "datetime_utc": "2026-09-23T04:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-23T03:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "orange",
@@ -972,11 +972,11 @@
     "previous": null,
     "day": "Thu",
     "date": "24/09/2026",
-    "datetime_utc": "2026-09-24T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-24T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "orange",
@@ -988,11 +988,11 @@
     "previous": null,
     "day": "Thu",
     "date": "24/09/2026",
-    "datetime_utc": "2026-09-24T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-24T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -1004,11 +1004,11 @@
     "previous": null,
     "day": "Thu",
     "date": "24/09/2026",
-    "datetime_utc": "2026-09-24T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-24T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "15:00",
+    "time": "14:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -1020,11 +1020,11 @@
     "previous": null,
     "day": "Fri",
     "date": "25/09/2026",
-    "datetime_utc": "2026-09-25T10:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-25T09:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "15:00",
+    "time": "14:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -1036,11 +1036,11 @@
     "previous": null,
     "day": "Fri",
     "date": "25/09/2026",
-    "datetime_utc": "2026-09-25T10:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-25T09:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "CAD",
     "impact": "orange",
@@ -1052,11 +1052,11 @@
     "previous": null,
     "day": "Tue",
     "date": "29/09/2026",
-    "datetime_utc": "2026-09-29T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-29T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "15:00",
+    "time": "14:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -1068,11 +1068,11 @@
     "previous": null,
     "day": "Tue",
     "date": "29/09/2026",
-    "datetime_utc": "2026-09-29T10:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-29T09:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "15:00",
+    "time": "14:00",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -1084,8 +1084,8 @@
     "previous": null,
     "day": "Tue",
     "date": "29/09/2026",
-    "datetime_utc": "2026-09-29T10:00:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-29T09:00:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
     "time": "All Day",
@@ -1101,7 +1101,7 @@
     "day": "Wed",
     "date": "30/09/2026",
     "datetime_utc": null,
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
     "time": "All Day",
@@ -1117,10 +1117,10 @@
     "day": "Wed",
     "date": "30/09/2026",
     "datetime_utc": null,
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:15",
+    "time": "12:15",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -1132,11 +1132,11 @@
     "previous": null,
     "day": "Wed",
     "date": "30/09/2026",
-    "datetime_utc": "2026-09-30T08:15:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-30T07:15:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -1148,11 +1148,11 @@
     "previous": null,
     "day": "Wed",
     "date": "30/09/2026",
-    "datetime_utc": "2026-09-30T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-30T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "red",
@@ -1164,11 +1164,11 @@
     "previous": null,
     "day": "Wed",
     "date": "30/09/2026",
-    "datetime_utc": "2026-09-30T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-30T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   },
   {
-    "time": "13:30",
+    "time": "12:30",
     "timezone": "Asia/Karachi",
     "currency": "USD",
     "impact": "orange",
@@ -1180,7 +1180,7 @@
     "previous": null,
     "day": "Wed",
     "date": "30/09/2026",
-    "datetime_utc": "2026-09-30T08:30:00Z",
-    "scraped_at": "2026-09-05T21:56:25.757865+00:00"
+    "datetime_utc": "2026-09-30T07:30:00Z",
+    "scraped_at": "2026-09-05T23:34:46.504801+00:00"
   }
 ]
