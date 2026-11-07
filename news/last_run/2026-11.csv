@@ -1,72 +1,72 @@
 time,timezone,currency,impact,impact_level,event,detail,actual,forecast,previous,day,date,datetime_utc,scraped_at
-06:00,Asia/Karachi,CAD,gray,holiday,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=November#detail=146469,,,,Sun,01/11/2026,2026-11-01T01:00:00Z,2026-11-07T11:31:06.153709+00:00
-06:00,Asia/Karachi,USD,gray,holiday,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=November#detail=146470,,,,Sun,01/11/2026,2026-11-01T01:00:00Z,2026-11-07T11:31:06.153709+00:00
-14:00,Asia/Karachi,USD,orange,medium,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=November#detail=146585,55.5,,,Mon,02/11/2026,2026-11-02T09:00:00Z,2026-11-07T11:31:06.153709+00:00
-14:00,Asia/Karachi,USD,orange,medium,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=November#detail=149798,7.52M,,,Tue,03/11/2026,2026-11-03T09:00:00Z,2026-11-07T11:31:06.153709+00:00
-All Day,Asia/Karachi,USD,red,high,Congressional Elections,https://www.forexfactory.com/calendar?month=November#detail=146627,,,,Tue,03/11/2026,,2026-11-07T11:31:06.153709+00:00
-15:00,Asia/Karachi,CAD,orange,medium,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=November#detail=155378,,,,Tue,03/11/2026,2026-11-03T10:00:00Z,2026-11-07T11:31:06.153709+00:00
-09:00,Asia/Karachi,EUR,orange,medium,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=November#detail=151324,2.5%,,,Wed,04/11/2026,2026-11-04T04:00:00Z,2026-11-07T11:31:06.153709+00:00
-09:00,Asia/Karachi,EUR,orange,medium,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=November#detail=151325,4.0%,,,Wed,04/11/2026,2026-11-04T04:00:00Z,2026-11-07T11:31:06.153709+00:00
-14:00,Asia/Karachi,USD,orange,medium,ISM Services PMI,https://www.forexfactory.com/calendar?month=November#detail=146609,54.5,,,Wed,04/11/2026,2026-11-04T09:00:00Z,2026-11-07T11:31:06.153709+00:00
-11:00,Asia/Karachi,GBP,red,high,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=November#detail=150723,,,,Thu,05/11/2026,2026-11-05T06:00:00Z,2026-11-07T11:31:06.153709+00:00
-11:00,Asia/Karachi,GBP,red,high,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=November#detail=150725,,,,Thu,05/11/2026,2026-11-05T06:00:00Z,2026-11-07T11:31:06.153709+00:00
-11:00,Asia/Karachi,GBP,red,high,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=November#detail=150726,9-0-0,,,Thu,05/11/2026,2026-11-05T06:00:00Z,2026-11-07T11:31:06.153709+00:00
-11:00,Asia/Karachi,GBP,red,high,Official Bank Rate,https://www.forexfactory.com/calendar?month=November#detail=150724,4.00%,,,Thu,05/11/2026,2026-11-05T06:00:00Z,2026-11-07T11:31:06.153709+00:00
-11:30,Asia/Karachi,GBP,red,high,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=November#detail=155383,,,,Thu,05/11/2026,2026-11-05T06:30:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,USD,orange,medium,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=147022,189K,,,Thu,05/11/2026,2026-11-05T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-14:30,Asia/Karachi,CAD,orange,medium,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=November#detail=155384,,,,Thu,05/11/2026,2026-11-05T09:30:00Z,2026-11-07T11:31:06.153709+00:00
-17:00,Asia/Karachi,EUR,orange,medium,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=November#detail=155382,,,,Thu,05/11/2026,2026-11-05T12:00:00Z,2026-11-07T11:31:06.153709+00:00
-20:00,Asia/Karachi,CAD,orange,medium,Annual Budget Release,https://www.forexfactory.com/calendar?month=November#detail=149848,,,,Thu,05/11/2026,2026-11-05T15:00:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,CAD,red,high,Employment Change,https://www.forexfactory.com/calendar?month=November#detail=149200,-4.7K,,,Fri,06/11/2026,2026-11-06T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,CAD,red,high,Unemployment Rate,https://www.forexfactory.com/calendar?month=November#detail=149201,6.7%,,,Fri,06/11/2026,2026-11-06T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,USD,red,high,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=November#detail=146937,0.4%,,,Fri,06/11/2026,2026-11-06T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,USD,red,high,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=November#detail=146914,165K,,,Fri,06/11/2026,2026-11-06T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,USD,red,high,Unemployment Rate,https://www.forexfactory.com/calendar?month=November#detail=146925,4.1%,,,Fri,06/11/2026,2026-11-06T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-14:00,Asia/Karachi,CAD,orange,medium,Ivey PMI,https://www.forexfactory.com/calendar?month=November#detail=149859,58.3,,,Fri,06/11/2026,2026-11-06T09:00:00Z,2026-11-07T11:31:06.153709+00:00
-14:00,Asia/Karachi,USD,orange,medium,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=November#detail=148580,51.0,,,Fri,06/11/2026,2026-11-06T09:00:00Z,2026-11-07T11:31:06.153709+00:00
-14:00,Asia/Karachi,USD,orange,medium,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=November#detail=148592,4.3%,,,Fri,06/11/2026,2026-11-06T09:00:00Z,2026-11-07T11:31:06.153709+00:00
-16:25,Asia/Karachi,GBP,orange,medium,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=November#detail=155593,,,,Mon,09/11/2026,2026-11-09T11:25:00Z,2026-11-07T11:31:06.153709+00:00
-08:00,Asia/Karachi,USD,orange,medium,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=November#detail=155594,,,,Tue,10/11/2026,2026-11-10T03:00:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,USD,red,high,Core CPI m/m,https://www.forexfactory.com/calendar?month=November#detail=148369,,,,Tue,10/11/2026,2026-11-10T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,USD,red,high,CPI m/m,https://www.forexfactory.com/calendar?month=November#detail=148339,,,,Tue,10/11/2026,2026-11-10T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-All Day,Asia/Karachi,EUR,gray,holiday,French Bank Holiday,https://www.forexfactory.com/calendar?month=November#detail=151668,,,,Wed,11/11/2026,,2026-11-07T11:31:06.153709+00:00
-All Day,Asia/Karachi,CAD,gray,holiday,Bank Holiday,https://www.forexfactory.com/calendar?month=November#detail=146491,,,,Wed,11/11/2026,,2026-11-07T11:31:06.153709+00:00
-All Day,Asia/Karachi,USD,gray,holiday,Bank Holiday,https://www.forexfactory.com/calendar?month=November#detail=146479,,,,Wed,11/11/2026,,2026-11-07T11:31:06.153709+00:00
-06:00,Asia/Karachi,GBP,red,high,GDP m/m,https://www.forexfactory.com/calendar?month=November#detail=151570,,,,Thu,12/11/2026,2026-11-12T01:00:00Z,2026-11-07T11:31:06.153709+00:00
-06:00,Asia/Karachi,GBP,orange,medium,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=November#detail=151601,,,,Thu,12/11/2026,2026-11-12T01:00:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,USD,orange,medium,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=147023,,,,Thu,12/11/2026,2026-11-12T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-18:30,Asia/Karachi,EUR,orange,medium,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=November#detail=155617,,,,Thu,12/11/2026,2026-11-12T13:30:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,USD,red,high,Core PPI m/m,https://www.forexfactory.com/calendar?month=November#detail=148405,,,,Fri,13/11/2026,2026-11-13T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,USD,red,high,PPI m/m,https://www.forexfactory.com/calendar?month=November#detail=148392,,,,Fri,13/11/2026,2026-11-13T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,CAD,red,high,CPI m/m,https://www.forexfactory.com/calendar?month=November#detail=149174,,,,Mon,16/11/2026,2026-11-16T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,CAD,red,high,Median CPI y/y,https://www.forexfactory.com/calendar?month=November#detail=149177,,,,Mon,16/11/2026,2026-11-16T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,CAD,red,high,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=November#detail=149178,,,,Mon,16/11/2026,2026-11-16T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,CAD,orange,medium,Common CPI y/y,https://www.forexfactory.com/calendar?month=November#detail=149175,,,,Mon,16/11/2026,2026-11-16T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-06:00,Asia/Karachi,GBP,orange,medium,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=November#detail=151094,,,,Tue,17/11/2026,2026-11-17T01:00:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,USD,red,high,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=November#detail=148047,,,,Tue,17/11/2026,2026-11-17T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,USD,red,high,Retail Sales m/m,https://www.forexfactory.com/calendar?month=November#detail=148035,,,,Tue,17/11/2026,2026-11-17T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-06:00,Asia/Karachi,GBP,red,high,CPI y/y,https://www.forexfactory.com/calendar?month=November#detail=155375,,,,Wed,18/11/2026,2026-11-18T01:00:00Z,2026-11-07T11:31:06.153709+00:00
-08:00,Asia/Karachi,EUR,orange,medium,ECB Financial Stability Review,https://www.forexfactory.com/calendar?month=November#detail=150562,,,,Wed,18/11/2026,2026-11-18T03:00:00Z,2026-11-07T11:31:06.153709+00:00
-18:00,Asia/Karachi,USD,red,high,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=November#detail=146529,,,,Wed,18/11/2026,2026-11-18T13:00:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,USD,orange,medium,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=November#detail=146965,,,,Thu,19/11/2026,2026-11-19T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,USD,orange,medium,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=147024,,,,Thu,19/11/2026,2026-11-19T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-06:00,Asia/Karachi,GBP,orange,medium,Retail Sales m/m,https://www.forexfactory.com/calendar?month=November#detail=151612,,,,Fri,20/11/2026,2026-11-20T01:00:00Z,2026-11-07T11:31:06.153709+00:00
-14:00,Asia/Karachi,USD,orange,medium,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=November#detail=148604,,,,Fri,20/11/2026,2026-11-20T09:00:00Z,2026-11-07T11:31:06.153709+00:00
-14:00,Asia/Karachi,USD,orange,medium,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=November#detail=148616,,,,Fri,20/11/2026,2026-11-20T09:00:00Z,2026-11-07T11:31:06.153709+00:00
-Tentative,Asia/Karachi,USD,orange,medium,Treasury Currency Report,https://www.forexfactory.com/calendar?month=November#detail=148787,,,,Fri,20/11/2026,,2026-11-07T11:31:06.153709+00:00
-07:15,Asia/Karachi,EUR,orange,medium,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=November#detail=147679,,,,Mon,23/11/2026,2026-11-23T02:15:00Z,2026-11-07T11:31:06.153709+00:00
-07:15,Asia/Karachi,EUR,orange,medium,French Flash Services PMI,https://www.forexfactory.com/calendar?month=November#detail=147680,,,,Mon,23/11/2026,2026-11-23T02:15:00Z,2026-11-07T11:31:06.153709+00:00
-07:30,Asia/Karachi,EUR,orange,medium,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=November#detail=147681,,,,Mon,23/11/2026,2026-11-23T02:30:00Z,2026-11-07T11:31:06.153709+00:00
-07:30,Asia/Karachi,EUR,orange,medium,German Flash Services PMI,https://www.forexfactory.com/calendar?month=November#detail=147682,,,,Mon,23/11/2026,2026-11-23T02:30:00Z,2026-11-07T11:31:06.153709+00:00
-08:30,Asia/Karachi,GBP,orange,medium,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=November#detail=147685,,,,Mon,23/11/2026,2026-11-23T03:30:00Z,2026-11-07T11:31:06.153709+00:00
-08:30,Asia/Karachi,GBP,orange,medium,Flash Services PMI,https://www.forexfactory.com/calendar?month=November#detail=147686,,,,Mon,23/11/2026,2026-11-23T03:30:00Z,2026-11-07T11:31:06.153709+00:00
-13:45,Asia/Karachi,USD,orange,medium,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=November#detail=149772,,,,Mon,23/11/2026,2026-11-23T08:45:00Z,2026-11-07T11:31:06.153709+00:00
-13:45,Asia/Karachi,USD,orange,medium,Flash Services PMI,https://www.forexfactory.com/calendar?month=November#detail=149784,,,,Mon,23/11/2026,2026-11-23T08:45:00Z,2026-11-07T11:31:06.153709+00:00
-14:00,Asia/Karachi,USD,orange,medium,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=November#detail=146888,,,,Tue,24/11/2026,2026-11-24T09:00:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,USD,red,high,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=November#detail=148237,,,,Wed,25/11/2026,2026-11-25T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,USD,red,high,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=November#detail=148292,,,,Wed,25/11/2026,2026-11-25T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,USD,orange,medium,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=November#detail=148300,,,,Wed,25/11/2026,2026-11-25T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,USD,orange,medium,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=147025,,,,Wed,25/11/2026,2026-11-25T07:30:00Z,2026-11-07T11:31:06.153709+00:00
-All Day,Asia/Karachi,USD,gray,holiday,Bank Holiday,https://www.forexfactory.com/calendar?month=November#detail=146480,,,,Thu,26/11/2026,,2026-11-07T11:31:06.153709+00:00
-All Day,Asia/Karachi,EUR,orange,medium,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=November#detail=151212,,,,Mon,30/11/2026,,2026-11-07T11:31:06.153709+00:00
-12:30,Asia/Karachi,CAD,red,high,GDP m/m,https://www.forexfactory.com/calendar?month=November#detail=149229,,,,Mon,30/11/2026,2026-11-30T07:30:00Z,2026-11-07T11:31:06.153709+00:00
+05:00,Asia/Karachi,CAD,gray,holiday,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=November#detail=146469,,,,Sun,01/11/2026,2026-11-01T00:00:00Z,2026-11-07T17:25:35.859984+00:00
+05:00,Asia/Karachi,USD,gray,holiday,Daylight Saving Time Shift,https://www.forexfactory.com/calendar?month=November#detail=146470,,,,Sun,01/11/2026,2026-11-01T00:00:00Z,2026-11-07T17:25:35.859984+00:00
+13:00,Asia/Karachi,USD,orange,medium,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=November#detail=146585,55.5,,,Mon,02/11/2026,2026-11-02T08:00:00Z,2026-11-07T17:25:35.859984+00:00
+13:00,Asia/Karachi,USD,orange,medium,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=November#detail=149798,7.52M,,,Tue,03/11/2026,2026-11-03T08:00:00Z,2026-11-07T17:25:35.859984+00:00
+All Day,Asia/Karachi,USD,red,high,Congressional Elections,https://www.forexfactory.com/calendar?month=November#detail=146627,,,,Tue,03/11/2026,,2026-11-07T17:25:35.859984+00:00
+14:00,Asia/Karachi,CAD,orange,medium,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=November#detail=155378,,,,Tue,03/11/2026,2026-11-03T09:00:00Z,2026-11-07T17:25:35.859984+00:00
+08:00,Asia/Karachi,EUR,orange,medium,Core CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=November#detail=151324,2.5%,,,Wed,04/11/2026,2026-11-04T03:00:00Z,2026-11-07T17:25:35.859984+00:00
+08:00,Asia/Karachi,EUR,orange,medium,CPI Flash Estimate y/y,https://www.forexfactory.com/calendar?month=November#detail=151325,4.0%,,,Wed,04/11/2026,2026-11-04T03:00:00Z,2026-11-07T17:25:35.859984+00:00
+13:00,Asia/Karachi,USD,orange,medium,ISM Services PMI,https://www.forexfactory.com/calendar?month=November#detail=146609,54.5,,,Wed,04/11/2026,2026-11-04T08:00:00Z,2026-11-07T17:25:35.859984+00:00
+10:00,Asia/Karachi,GBP,red,high,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=November#detail=150723,,,,Thu,05/11/2026,2026-11-05T05:00:00Z,2026-11-07T17:25:35.859984+00:00
+10:00,Asia/Karachi,GBP,red,high,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=November#detail=150725,,,,Thu,05/11/2026,2026-11-05T05:00:00Z,2026-11-07T17:25:35.859984+00:00
+10:00,Asia/Karachi,GBP,red,high,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=November#detail=150726,9-0-0,,,Thu,05/11/2026,2026-11-05T05:00:00Z,2026-11-07T17:25:35.859984+00:00
+10:00,Asia/Karachi,GBP,red,high,Official Bank Rate,https://www.forexfactory.com/calendar?month=November#detail=150724,4.00%,,,Thu,05/11/2026,2026-11-05T05:00:00Z,2026-11-07T17:25:35.859984+00:00
+10:30,Asia/Karachi,GBP,red,high,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=November#detail=155383,,,,Thu,05/11/2026,2026-11-05T05:30:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,USD,orange,medium,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=147022,189K,,,Thu,05/11/2026,2026-11-05T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+13:30,Asia/Karachi,CAD,orange,medium,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=November#detail=155384,,,,Thu,05/11/2026,2026-11-05T08:30:00Z,2026-11-07T17:25:35.859984+00:00
+16:00,Asia/Karachi,EUR,orange,medium,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=November#detail=155382,,,,Thu,05/11/2026,2026-11-05T11:00:00Z,2026-11-07T17:25:35.859984+00:00
+19:00,Asia/Karachi,CAD,orange,medium,Annual Budget Release,https://www.forexfactory.com/calendar?month=November#detail=149848,,,,Thu,05/11/2026,2026-11-05T14:00:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,CAD,red,high,Employment Change,https://www.forexfactory.com/calendar?month=November#detail=149200,-4.7K,,,Fri,06/11/2026,2026-11-06T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,CAD,red,high,Unemployment Rate,https://www.forexfactory.com/calendar?month=November#detail=149201,6.7%,,,Fri,06/11/2026,2026-11-06T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,USD,red,high,Average Hourly Earnings m/m,https://www.forexfactory.com/calendar?month=November#detail=146937,0.4%,,,Fri,06/11/2026,2026-11-06T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,USD,red,high,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=November#detail=146914,165K,,,Fri,06/11/2026,2026-11-06T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,USD,red,high,Unemployment Rate,https://www.forexfactory.com/calendar?month=November#detail=146925,4.1%,,,Fri,06/11/2026,2026-11-06T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+13:00,Asia/Karachi,CAD,orange,medium,Ivey PMI,https://www.forexfactory.com/calendar?month=November#detail=149859,58.3,,,Fri,06/11/2026,2026-11-06T08:00:00Z,2026-11-07T17:25:35.859984+00:00
+13:00,Asia/Karachi,USD,orange,medium,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=November#detail=148580,51.0,,,Fri,06/11/2026,2026-11-06T08:00:00Z,2026-11-07T17:25:35.859984+00:00
+13:00,Asia/Karachi,USD,orange,medium,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=November#detail=148592,4.3%,,,Fri,06/11/2026,2026-11-06T08:00:00Z,2026-11-07T17:25:35.859984+00:00
+15:25,Asia/Karachi,GBP,orange,medium,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=November#detail=155593,,,,Mon,09/11/2026,2026-11-09T10:25:00Z,2026-11-07T17:25:35.859984+00:00
+07:00,Asia/Karachi,USD,orange,medium,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=November#detail=155594,,,,Tue,10/11/2026,2026-11-10T02:00:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,USD,red,high,Core CPI m/m,https://www.forexfactory.com/calendar?month=November#detail=148369,,,,Tue,10/11/2026,2026-11-10T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,USD,red,high,CPI m/m,https://www.forexfactory.com/calendar?month=November#detail=148339,,,,Tue,10/11/2026,2026-11-10T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+All Day,Asia/Karachi,EUR,gray,holiday,French Bank Holiday,https://www.forexfactory.com/calendar?month=November#detail=151668,,,,Wed,11/11/2026,,2026-11-07T17:25:35.859984+00:00
+All Day,Asia/Karachi,CAD,gray,holiday,Bank Holiday,https://www.forexfactory.com/calendar?month=November#detail=146491,,,,Wed,11/11/2026,,2026-11-07T17:25:35.859984+00:00
+All Day,Asia/Karachi,USD,gray,holiday,Bank Holiday,https://www.forexfactory.com/calendar?month=November#detail=146479,,,,Wed,11/11/2026,,2026-11-07T17:25:35.859984+00:00
+05:00,Asia/Karachi,GBP,red,high,GDP m/m,https://www.forexfactory.com/calendar?month=November#detail=151570,,,,Thu,12/11/2026,2026-11-12T00:00:00Z,2026-11-07T17:25:35.859984+00:00
+05:00,Asia/Karachi,GBP,orange,medium,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=November#detail=151601,,,,Thu,12/11/2026,2026-11-12T00:00:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,USD,orange,medium,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=147023,,,,Thu,12/11/2026,2026-11-12T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+17:30,Asia/Karachi,EUR,orange,medium,ECB President Lagarde Speaks,https://www.forexfactory.com/calendar?month=November#detail=155617,,,,Thu,12/11/2026,2026-11-12T12:30:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,USD,red,high,Core PPI m/m,https://www.forexfactory.com/calendar?month=November#detail=148405,,,,Fri,13/11/2026,2026-11-13T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,USD,red,high,PPI m/m,https://www.forexfactory.com/calendar?month=November#detail=148392,,,,Fri,13/11/2026,2026-11-13T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,CAD,red,high,CPI m/m,https://www.forexfactory.com/calendar?month=November#detail=149174,,,,Mon,16/11/2026,2026-11-16T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,CAD,red,high,Median CPI y/y,https://www.forexfactory.com/calendar?month=November#detail=149177,,,,Mon,16/11/2026,2026-11-16T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,CAD,red,high,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=November#detail=149178,,,,Mon,16/11/2026,2026-11-16T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,CAD,orange,medium,Common CPI y/y,https://www.forexfactory.com/calendar?month=November#detail=149175,,,,Mon,16/11/2026,2026-11-16T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+05:00,Asia/Karachi,GBP,orange,medium,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=November#detail=151094,,,,Tue,17/11/2026,2026-11-17T00:00:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,USD,red,high,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=November#detail=148047,,,,Tue,17/11/2026,2026-11-17T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,USD,red,high,Retail Sales m/m,https://www.forexfactory.com/calendar?month=November#detail=148035,,,,Tue,17/11/2026,2026-11-17T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+05:00,Asia/Karachi,GBP,red,high,CPI y/y,https://www.forexfactory.com/calendar?month=November#detail=155375,,,,Wed,18/11/2026,2026-11-18T00:00:00Z,2026-11-07T17:25:35.859984+00:00
+07:00,Asia/Karachi,EUR,orange,medium,ECB Financial Stability Review,https://www.forexfactory.com/calendar?month=November#detail=150562,,,,Wed,18/11/2026,2026-11-18T02:00:00Z,2026-11-07T17:25:35.859984+00:00
+17:00,Asia/Karachi,USD,red,high,FOMC Meeting Minutes,https://www.forexfactory.com/calendar?month=November#detail=146529,,,,Wed,18/11/2026,2026-11-18T12:00:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,USD,orange,medium,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=November#detail=146965,,,,Thu,19/11/2026,2026-11-19T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,USD,orange,medium,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=147024,,,,Thu,19/11/2026,2026-11-19T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+05:00,Asia/Karachi,GBP,orange,medium,Retail Sales m/m,https://www.forexfactory.com/calendar?month=November#detail=151612,,,,Fri,20/11/2026,2026-11-20T00:00:00Z,2026-11-07T17:25:35.859984+00:00
+13:00,Asia/Karachi,USD,orange,medium,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=November#detail=148604,,,,Fri,20/11/2026,2026-11-20T08:00:00Z,2026-11-07T17:25:35.859984+00:00
+13:00,Asia/Karachi,USD,orange,medium,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=November#detail=148616,,,,Fri,20/11/2026,2026-11-20T08:00:00Z,2026-11-07T17:25:35.859984+00:00
+Tentative,Asia/Karachi,USD,orange,medium,Treasury Currency Report,https://www.forexfactory.com/calendar?month=November#detail=148787,,,,Fri,20/11/2026,,2026-11-07T17:25:35.859984+00:00
+06:15,Asia/Karachi,EUR,orange,medium,French Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=November#detail=147679,,,,Mon,23/11/2026,2026-11-23T01:15:00Z,2026-11-07T17:25:35.859984+00:00
+06:15,Asia/Karachi,EUR,orange,medium,French Flash Services PMI,https://www.forexfactory.com/calendar?month=November#detail=147680,,,,Mon,23/11/2026,2026-11-23T01:15:00Z,2026-11-07T17:25:35.859984+00:00
+06:30,Asia/Karachi,EUR,orange,medium,German Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=November#detail=147681,,,,Mon,23/11/2026,2026-11-23T01:30:00Z,2026-11-07T17:25:35.859984+00:00
+06:30,Asia/Karachi,EUR,orange,medium,German Flash Services PMI,https://www.forexfactory.com/calendar?month=November#detail=147682,,,,Mon,23/11/2026,2026-11-23T01:30:00Z,2026-11-07T17:25:35.859984+00:00
+07:30,Asia/Karachi,GBP,orange,medium,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=November#detail=147685,,,,Mon,23/11/2026,2026-11-23T02:30:00Z,2026-11-07T17:25:35.859984+00:00
+07:30,Asia/Karachi,GBP,orange,medium,Flash Services PMI,https://www.forexfactory.com/calendar?month=November#detail=147686,,,,Mon,23/11/2026,2026-11-23T02:30:00Z,2026-11-07T17:25:35.859984+00:00
+12:45,Asia/Karachi,USD,orange,medium,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=November#detail=149772,,,,Mon,23/11/2026,2026-11-23T07:45:00Z,2026-11-07T17:25:35.859984+00:00
+12:45,Asia/Karachi,USD,orange,medium,Flash Services PMI,https://www.forexfactory.com/calendar?month=November#detail=149784,,,,Mon,23/11/2026,2026-11-23T07:45:00Z,2026-11-07T17:25:35.859984+00:00
+13:00,Asia/Karachi,USD,orange,medium,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=November#detail=146888,,,,Tue,24/11/2026,2026-11-24T08:00:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,USD,red,high,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=November#detail=148237,,,,Wed,25/11/2026,2026-11-25T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,USD,red,high,Prelim GDP q/q,https://www.forexfactory.com/calendar?month=November#detail=148292,,,,Wed,25/11/2026,2026-11-25T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,USD,orange,medium,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=November#detail=148300,,,,Wed,25/11/2026,2026-11-25T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,USD,orange,medium,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=147025,,,,Wed,25/11/2026,2026-11-25T06:30:00Z,2026-11-07T17:25:35.859984+00:00
+All Day,Asia/Karachi,USD,gray,holiday,Bank Holiday,https://www.forexfactory.com/calendar?month=November#detail=146480,,,,Thu,26/11/2026,,2026-11-07T17:25:35.859984+00:00
+All Day,Asia/Karachi,EUR,orange,medium,German Prelim CPI m/m,https://www.forexfactory.com/calendar?month=November#detail=151212,,,,Mon,30/11/2026,,2026-11-07T17:25:35.859984+00:00
+11:30,Asia/Karachi,CAD,red,high,GDP m/m,https://www.forexfactory.com/calendar?month=November#detail=149229,,,,Mon,30/11/2026,2026-11-30T06:30:00Z,2026-11-07T17:25:35.859984+00:00
